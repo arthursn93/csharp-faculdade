@@ -1,6 +1,6 @@
 # csharp-faculdade
 
-**Lista de Exercícios realizados durante o 1º Semestre de 2019**
+**_Lista de Exercícios realizados durante o 1º Semestre de 2019_**
 
 **Conteúdos Abordados**
 -----------------------------------------------------------------------
@@ -10,6 +10,7 @@
 - Constantes
 - Operadores aritméticos
 - Expressões aritméticas
+- Métodos
 - Estrutura de um programa C#
 - Programas em Visual C#
 
