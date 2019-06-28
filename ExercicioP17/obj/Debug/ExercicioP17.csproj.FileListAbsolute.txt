@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP17\bin\Debug\ExercicioP17.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP17\bin\Debug\ExercicioP17.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP17\bin\Debug\ExercicioP17.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP17\obj\Debug\ExercicioP17.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP17\obj\Debug\ExercicioP17.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP17\obj\Debug\ExercicioP17.pdb

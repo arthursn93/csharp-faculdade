@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio9\bin\Debug\Exercicio9.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio9\bin\Debug\Exercicio9.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio9\bin\Debug\Exercicio9.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio9\obj\Debug\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio9\obj\Debug\Exercicio9.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio9\obj\Debug\Exercicio9.pdb

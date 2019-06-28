@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP46\bin\Debug\ExercicioP46.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP46\bin\Debug\ExercicioP46.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP46\bin\Debug\ExercicioP46.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP46\obj\Debug\ExercicioP46.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP46\obj\Debug\ExercicioP46.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP46\obj\Debug\ExercicioP46.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP46\obj\Debug\ExercicioP46.csprojAssemblyReference.cache

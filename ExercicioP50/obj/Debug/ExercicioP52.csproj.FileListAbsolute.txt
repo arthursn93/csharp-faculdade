@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP52\bin\Debug\ExercicioP52.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP52\bin\Debug\ExercicioP52.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP52\bin\Debug\ExercicioP52.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP52\obj\Debug\ExercicioP52.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP52\obj\Debug\ExercicioP52.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP52\obj\Debug\ExercicioP52.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP52\obj\Debug\ExercicioP52.pdb

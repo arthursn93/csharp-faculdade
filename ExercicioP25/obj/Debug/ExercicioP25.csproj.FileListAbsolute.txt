@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP25\bin\Debug\ExercicioP25.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP25\bin\Debug\ExercicioP25.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP25\bin\Debug\ExercicioP25.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP25\obj\Debug\ExercicioP25.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP25\obj\Debug\ExercicioP25.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP25\obj\Debug\ExercicioP25.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP25\obj\Debug\ExercicioP25.pdb

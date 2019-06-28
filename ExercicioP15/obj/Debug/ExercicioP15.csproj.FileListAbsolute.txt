@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP15\bin\Debug\ExercicioP15.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP15\bin\Debug\ExercicioP15.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP15\bin\Debug\ExercicioP15.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP15\obj\Debug\ExercicioP15.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP15\obj\Debug\ExercicioP15.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExercicioP15\obj\Debug\ExercicioP15.pdb

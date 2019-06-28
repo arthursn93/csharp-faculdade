@@ -1,0 +1,7 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio8\obj\Debug\Exercicio8.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio8\bin\Debug\Exercicio8.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio8\bin\Debug\Exercicio8.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio8\bin\Debug\Exercicio8.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio8\obj\Debug\Exercicio8.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio8\obj\Debug\Exercicio8.pdb

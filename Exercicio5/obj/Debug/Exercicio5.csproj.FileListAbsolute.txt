@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\Exercicio5\obj\Debug\Exercicio5.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExerciciosP36\bin\Debug\ExerciciosP36.exe.config
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExerciciosP36\bin\Debug\ExerciciosP36.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExerciciosP36\bin\Debug\ExerciciosP36.pdb
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExerciciosP36\obj\Debug\ExercicioP36.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExerciciosP36\obj\Debug\ExerciciosP36.exe
+C:\Users\Pichau\source\repos\ListaExercicios-AlgoritmoUSCS\ExerciciosP36\obj\Debug\ExerciciosP36.pdb
